@@ -63,3 +63,33 @@ Emails between Tracy, Pat, Perry, Carol, and King were also uncovered, and the c
 
 Lastly, a text file named 'needs.txt' under the extension mismatch category was uncovered through Autopsy via Tracy’s phone. It indicated a list of materials needed for a possible Flash Mob or Stamp Heist.
 
+## Results
+
+Findings suggest a certain level of theft and defacement. Firstly, in Finding One, the document retrieved from Carry’s tablet raised concerns due to Carry's lack of affiliation with The National Gallery, indicating potential theft of official documents. With the evidence we have, it is probable that Carry would use the document to gain access to the National Gallery undetected for her defacement plans.
+
+Finding Two revealed evidence of established communication between Carry and Alex, indicating a potential conspiracy. This conclusion was drawn from the content of the videos and the email exchanges, strongly suggesting their intention to deface and cause harm to The National Gallery.
+
+Finding Three further substantiated the discovered defacement plans and agreements. The evidence pointed to Carry conducting some form of reconnaissance, especially given that the trip between Bethesda Bagels and Virginia Avenue would pass by The National Gallery—meaning she was close to the targeted area. Additionally, the pictures of security cameras found added weight to the findings.
+
+Finding Four indicated that Carry sought the assistance of Tracy to execute the defacement plan. This, along with the addition of Google+ connections and the similarities found in the documents, strongly suggested that these elements were part of Carry's overall defacement plans. Carry initiated the conversation of inviting Tracy to join the event after she found Tracy to be ‘unhappy’ due to money issues, which Tracy posted on Facebook.
+
+Finding Five, although Tracy had an employment history with The National Gallery, the discovery of sensitive corporate data, including stamp images, raised concerns about possible misappropriation. It implied that Tracy may have accessed and stored corporate information on her personal device, potentially constituting theft or unauthorized retention of sensitive data. She also possesses a document (needs.txt) dated on '13/07/12,' indicating materials needed for a Flash Mob and a Stamp Heist, possibly constituting planning to assist.
+
+Subsequently, her involvement between Pat and the others for the Stamp Heist implies the intention to steal, further strengthening Tracy’s case.
+
+## Other Findings
+
+![Screenshot 2024-04-17 130858](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/77a4a398-f7af-412b-bd09-c9f0d592f035) 
+![Screenshot 2024-04-17 130907](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/ea2c5ec0-a5ea-4760-bbb9-7ffcbab1e780)
+![Screenshot 2024-04-17 130917](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/0503d6d8-4e3c-43b7-a905-05abe88d4ef2)
+![Screenshot 2024-04-17 130931](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/1f9a2188-7216-44b5-9875-03d03aa5c387)
+![Screenshot 2024-04-17 130941](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/2e9a25d7-74d2-4783-803f-c38340ab3024)
+![Screenshot 2024-04-17 130949](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/3eb8ed5a-cc47-4153-a3e8-227cd281caae)
+
+
+![Screenshot 2024-04-17 131221](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/53e1c2e4-4be8-4ae7-8981-5297055fb5e5)
+![Screenshot 2024-04-17 131232](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/68de4f62-05e4-411d-ad52-8d47df52b0bc)
+![Screenshot 2024-04-17 131241](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/c6a1f517-9cfa-46a6-b8e9-0c32e73e6af8)
+![Screenshot 2024-04-17 131247](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/fc468b5e-afef-4680-8ca1-6e5c5417ed0d)
+![Screenshot 2024-04-17 131255](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/ea03db6b-bfb7-4f99-95e6-7380e69d3e0f)
+![Screenshot 2024-04-17 131301](https://github.com/JolynNgSC/Cyber_Forensics-/assets/164031233/a44363a3-b929-4c76-bcf0-5be996292727)
