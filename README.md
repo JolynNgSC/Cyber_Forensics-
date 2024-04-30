@@ -13,7 +13,7 @@ This investigative project was conducted in late 2023. I was provided with three
 - Windows Server 2016
 - Kali Linux
 
-## Methodlogy 
+## Methodology
 To ensure prevention of alterations, images (E01) were stored on a secured thumb drive and accessed via a freshly created virtual machine. Hashes were initially generated before examination to maintain consistency. Subsequently, the same thumb drive was used to preserve the evidence found.
 
 Meticulous examinations of these pieces of evidence were carried out to capture any potential elements that could offer valuable insights for building the case. Other applications, such as Database SQLite, Google Maps, and Translation, were also employed to strengthen the case.
