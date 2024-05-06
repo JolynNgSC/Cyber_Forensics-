@@ -10,7 +10,6 @@ This investigative project was conducted in late 2023. I was provided with three
 - Autopsy
 - OSForensic
 - SQLite database
-- Windows Server 2016
 - Kali Linux
 
 ## Methodology
